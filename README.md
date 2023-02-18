@@ -4,18 +4,18 @@ Journal of my learning progress in blockchain
 
 ____
 
-##### DAY 17 : 18-fev-2023
+#### DAY 17 : 18-fev-2023
 
 Today I studied the writeups from @deliriusz_eth on the 2 bugs he found : [https://twitter.com/deliriusz_eth/status/1626577338019495936](https://twitter.com/deliriusz_eth/status/1626577338019495936)
 Thought it would be a great way to apply my fresh foundry and cloned his repo with the poc to study them
 
-##### DAY 16 : 17-fev-2023
+#### DAY 16 : 17-fev-2023
 
 Today I continued working the Foundry Book
 I really like the UI and all the tools
 Will I become a Foundry devout when I'll finish it ?..
 
-##### DAY 15 : 16-fev-2023
+#### DAY 15 : 16-fev-2023
 
 - Started the Foundry Book. I know this is the tool to-go for auditing and testing smart contracts. Nearly every POCs are based on Foundry
 
@@ -27,14 +27,14 @@ I've been using hardhat for a long time, but reading the doc I see why Foundry i
 
 Notion list of findings: This idea came from [@andyfeili](https://twitter.com/andyfeili) videos and interviews. I was feeling too "passive" while reading the audits. Filling up this database with findings, trying to sort them by type and type of vulnerability will certainly help a lot to learn them better!
 
-##### DAY 14 : 15-fev-2023
+#### DAY 14 : 15-fev-2023
 
 Today I studied the last hacks from Block Threat Intelligence 
 & Started to read the PoolTogether C4 contest thanks to an initiative on the [@Web3SecurityDAO](https://twitter.com/Web3SecurityDAO)
 
 consisting in reading a report each week (which fits exactly with my todo on day8 !)
 
-##### DAY 13 : 14-fev-2023
+#### DAY 13 : 14-fev-2023
 
 I finally found the solution for #11 Backdoor challenge!!
 What a relief, what a feeling.
@@ -46,7 +46,7 @@ I really liked this challenge because I was forced to explore in details how the
 If you haven't already started doing CTFs, don't be afraid and jump into it. I like to take my time with CTFs and document myself a lot on related topics during the exercise, to get the most of it in term of knowledge.
 I'll probably go to code4rena once I'll finish them!
 
-##### DAY 12 : 13-fev-2023
+#### DAY 12 : 13-fev-2023
 
 Small day, just continued worked on the DVChallenge #11 Backdoor
 I've found the solution, need to finish coding it
@@ -56,7 +56,7 @@ Aaand, finally while in bed… I found [a great article](https://t.co/tHK3yJd33D
 
 Formal verification determine whether a given logical formula can be true or false based on a set of rules. We must not forget about these tools
 
-##### DAY 11 : 12-fev-2023
+#### DAY 11 : 12-fev-2023
 
 I continued exploring Gnosis src.
 Very interesting, they uses a "module" system, where a Safe is first a very simple contract-wallet w/ limited capabilities. But users can dynamically activate modules and execute their code : [https://github.com/safe-global/safe-modules](https://github.com/safe-global/safe-modules)
@@ -66,7 +66,7 @@ This standard allows wallets to display data in signing prompts in a structured 
 
 [https://eips.ethereum.org/EIPS/eip-712](https://t.co/oisSIVD0c5)
 
-##### DAY 10 : 11-fev-2023
+#### DAY 10 : 11-fev-2023
 
 Today I started the Backdoor #11 challenge [https://damnvulnerabledefi.xyz/challenges/backdoor/…](https://t.co/4J3aFnG09n)
 
@@ -77,7 +77,7 @@ Found out a lot of protocol make use of these, so it is important for an auditor
 Found myself pretty lost for now in this challenge, simply because I still don't understand how to interact with a safe in the first time. The Gnosis Safe documentation is way less helpful than the Uniswap V2 one.
 I'll have to read the solidity code then!..
 
-##### DAY 9 : 10-fev-2023
+#### DAY 9 : 10-fev-2023
 
 I decided to continue reading articles and docs (links shared in next posts)
 
@@ -102,7 +102,7 @@ part 1: [https://eulerlabs.com/blog/prices-and-oracles…](https://t.co/5KT8ebNg
 
 part 2: [https://eulerlabs.com/blog/moving-average-filters](https://t.co/ACkNfUFwNB)
 
-##### DAY 8 : 9-fev-2023
+#### DAY 8 : 9-fev-2023
 
 've never been so consistent in my learning, this challenge helped for sure !
 Today :
@@ -118,12 +118,12 @@ Will try to implement this as a routine : read least 1 audit a week
 
 What I really liked too is that I did not only learn about security issues, but also how the findings are rated, discussed, and demonstrated.
 
-##### DAY 7 : 8-fev-2023
+#### DAY 7 : 8-fev-2023
 
 Today I published [my writeup for the Challenge #7](https://coinsbench.com/damn-vulnerable-defi-challenges-7-compromised-9ada74bc42fe) from Damn Vulnerable DeFi.
 I've already completed the #10, but I'm a bit late on my articles, but at the end this is a great way to refresh my memory !
 
-##### DAY 6 : 7-fev-2023
+#### DAY 6 : 7-fev-2023
 
 Today :
 
@@ -140,7 +140,7 @@ I don't know who created the EVM Playground but his work is a gift to us, learne
 
 [https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-d6b](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-d6b)
 
-##### DAY 5 : 6-fev-2023
+#### DAY 5 : 6-fev-2023
 
 today i read the Uniswap V2 whitepaper + a great blogpost from [@samczsun](https://twitter.com/samczsun) on oracles price manipulation (i’m sharing it at the end)
 
@@ -148,13 +148,13 @@ Very well written, i prefered reading the whitepaper over the documentation, as 
 
 The note [3] from this whitepaper leads to a great blogpost from samczsun on an oracle price manipulation, but i would like to share it another one from his blog which sumarize this topic + gives hints on how to mitigate these risks : gold!
 
-##### DAY 4 : 5-fev-2023
+#### DAY 4 : 5-fev-2023
 
 Went back to #10 free-rider from Damn Vulnerable DeFi this morning, eat, thought about it whil eating, took a train for a 3h travel, and found the solution!
 
 This challenge forced me to dig into UniV2 documentation, I feel way more confident about it now!
 
-##### DAY 3 : 4-fev-2023
+#### DAY 3 : 4-fev-2023
 
 Today I spent most of my time on challenge #10 from CTF Damn Vulnerable DeFi : [https://www.damnvulnerabledefi.xyz/](https://www.damnvulnerabledefi.xyz/)
 
@@ -162,13 +162,13 @@ If I can give you an advice : don't give up on these challenges, you will learn 
 
 My own advice : don't try to rush everything, do it on your own pace. My style is to follow my curiosity. This can slow you down, but on the long run you will get a lot more depth
 
-##### DAY 2 : 3-fev-2023
+#### DAY 2 : 3-fev-2023
 
 Finished my Solidity 201 Quizz writeup !
 Will probably start next quizz tomorrow.
 This is a great way to practice and learn when you don't have that much time on your schedule !
 
-##### DAY 1 : 2-fev-2023
+#### DAY 1 : 2-fev-2023
 
 A challenge started on Discord Web3SecurityDAO, its called #30daysweb3security 
 
