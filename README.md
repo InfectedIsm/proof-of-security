@@ -1,8 +1,14 @@
 # Proof of Security
 
-Journal of my learning progress in blockchain
+Journal of my learning progress in blockchain programming and security
 
 ____
+
+#### DAY 18 : 19-fev-2023
+
+Made [a writeup](https://github.com/InfectedIsm/some-quizz/blob/main/Quizzes/4-%20Secureum%20-%20Pitfall%20%26%20Best%20Practices.md) of the "Pitfalls and Best Practices 101" Quizz from Secureum
+I remember few weeks ago when I read it and was a bit lost. This time I rolled over it 🚄
+I think that next week I will go over Securem RACEs
 
 #### DAY 17 : 18-fev-2023
 
