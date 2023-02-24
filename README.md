@@ -4,6 +4,24 @@ Journal of my learning progress in blockchain programming and security
 
 ____
 
+
+#### DAY 23 : 24-fev-2023
+Worked on [Secureum Race](https://ventral.digital/posts/2022/8/29/secureum-bootcamp-epoch-august-race-9) 6 to 9
+
+#### DAY 22 : 23-fev-2023
+- Read the last Block Threat Intelligence newsletter (not entirely yet, too many of interesting topics in there)
+- From the newsletter, really liked [this finding](https://twitter.com/leekt216/status/1625147853890023426) from @leekt216 on Safe based 4337 wallets
+
+- Completed Secureum Race 5
+
+#### DAY 21 : 22-fev-2023
+- Read TimeSwap contest from c4
+- Read [an article](https://t.co/XXeYhJ1zTm) about the simple inliner optimizer
+
+#### DAY 20 : 21-fev-2023
+#### DAY 19 : 20-fev-2023
+Had to rest because of a medical issue
+
 #### DAY 18 : 19-fev-2023
 
 Made [a writeup](https://github.com/InfectedIsm/some-quizz/blob/main/Quizzes/4-%20Secureum%20-%20Pitfall%20%26%20Best%20Practices.md) of the "Pitfalls and Best Practices 101" Quizz from Secureum
