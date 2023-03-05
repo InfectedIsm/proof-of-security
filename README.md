@@ -250,3 +250,14 @@ Today I'm continuing writeups of [@Secureum](https://twitter.com/Secureum) quizz
 
 [InfectedIsm/some-quizz](https://t.co/ivP1CjuDV8)
 
+#### Before DAY 1
+- Started with CryptoZombies
+- Read Ethereum White Paper
+- Read Ethereum Workbook 
+- Read Solidity Doc
+- Then BuildSpace web3 course
+- Solved Lotteries and Math from Capture the Ether. I learned a LOT with these challenges (Remix, Etherscan, and of course Solidity), I highly recommend them
+- Eats the Blocks 6-figures training (not the best one, wouldn't recommend it its based on 0.4.2)
+- Learned a bit of web deb with Angular and Typescript
+- Learned Truffle and Ganache, but didn't like it at all
+- Learned Hardhat, was way better
