@@ -261,3 +261,5 @@ Today I'm continuing writeups of [@Secureum](https://twitter.com/Secureum) quizz
 - Learned a bit of web deb with Angular and Typescript
 - Learned Truffle and Ganache, but didn't like it at all
 - Learned Hardhat, was way better
+- Wrote writeup to multiple quizzes (Rareskill, Secureum)
+- Read hundreds of articles/blogposts
