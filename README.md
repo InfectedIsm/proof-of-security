@@ -3,7 +3,54 @@
 Journal of my learning progress in blockchain programming and security
 
 ____
+#### DAY 32 5-mar-2023
+- Started C4 Aragon contest 
 
+#### DAY 31 4-mar-2023
+- Solved WETH-11 QuillCTF challenge
+- Started C4 Ethos contest, then noticed I was first planing to do Aragon with someone. 
+I will do Aragon as there's only 2 days left to Ethos, and Aragon seems easier to understand
+
+#### DAY 30 3-mar-2023
+Suceeded in the #30daysweb3security challenge!
+Thank you to the @Web3SecurityDAO for organizing this! 
+- I finally solved Damn Vuln DeFI #12 Climber!
+Struggled so much bc of the execute/schedule ids+ manipulating the arrays, to finally get a pretty clean solution!
+It would have probably took more time without this insane ressource : https://solodit.xyz/issues/682
+By digging existing findings on similar topics, I was able to find the real vulnerability which certainly inspired this challenge
+- 2/ I also solved the QuillCTF : Donate!
+https://quillctf.super.site/challenges/quillctf-challenges/donate
+There's still the WETH11 available to solve
+I like the idea of a leaderboard, remind me of CaptureTheEther but with a time limit 
+
+#### DAY 29 2-mar-2023
+Still not able to implement correctly Damn Vuln DeFi #12 correctly, but I'm half way
+Continued reading Biconomy 2022-03 report
+
+#### DAY 28 1-mar-2023
+Bonked my head over Damn Vulnerable DeFi #12, I know I have the solution but issues to implement it.
+When its like this, I'm better waiting tomorrow, it usually works better!
+
+#### DAY 27 28-fev-2023
+Started to get into the C4 Biconomy audit report, participating in the weekly audit study club from 
+@Web3SecurityDAO
+While for past report I wasn't reading the project documentation, this time 
+@ArtemkaWeb3
+ proposed to read the doc day1, good idea!
+
+#### DAY 26 27-fev-2023
+- I'm pretty sure I found the solution to Damn Vulnerable DeFi #12 Climber!
+Using the audit tags helps a lot, but https://solodit.xyz/dashboard even more🤟
+- Posted this thread about a vulnerability I think was fun enough to share it!
+https://twitter.com/InfectedCrypto/status/1630334513791287299
+ 
+#### DAY 25 26-fev-2023
+- Got 4.5/8 at Secureum race 15 (got same grade for race 14). But I feel more comfortable now with the time limit. Also I could have gotten more, first question I forget there was multiple good answers... I think I can be in the top 32 next time :D
+- Started lurking into Damn Vuln Defi #12 : Climber. Taking this as opportunity to get deep into Upgradable OZ contracts
+
+#### DAY 24 25-fev-2023
+- Worked on Secureum Race 10 to 14
+Tomorrow I'll participate to the RACE 15!
 
 #### DAY 23 : 24-fev-2023
 Worked on [Secureum Race](https://ventral.digital/posts/2022/8/29/secureum-bootcamp-epoch-august-race-9) 6 to 9
