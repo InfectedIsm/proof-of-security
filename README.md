@@ -14,7 +14,7 @@ There's still the Framework part I need to study
 The Aragon codebase is pretty big for a start, but I'm learning a lot even if not finding anything for now: 
 - learned coding patterns
 - learned a lot about DAOs functionalities
-- learned that staying focus and sharp is very important during discovery
+- learned that staying focus and sharp is very important during discovery phase
 
 #### DAY 33 6-mar-2023
 - Spent some time on the C4 Aragon contest
