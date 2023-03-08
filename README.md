@@ -2,6 +2,23 @@
 
 Journal of my learning progress in blockchain programming and security
 
+
+#### DAY 35 8-mar-2023
+- Spent some time on the C4 Aragon contest
+This time I studied the Framework part, I though I got something but I was wrong. I'll try again tomorrow
+
+#### DAY 34 7-mar-2023
+- Spent some time on the C4 Aragon contest
+I've pretty well understood the DAO and Permission Manager, took some notes.
+There's still the Framework part I need to study
+The Aragon codebase is pretty big for a start, but I'm learning a lot even if not finding anything for now: 
+- learned coding patterns
+- learned a lot about DAOs functionalities
+- learned that staying focus and sharp is very important during discovery
+
+#### DAY 33 6-mar-2023
+- Spent some time on the C4 Aragon contest
+I've read the documentation and tried to understand the code
 ____
 #### DAY 32 5-mar-2023
 - Started C4 Aragon contest 
