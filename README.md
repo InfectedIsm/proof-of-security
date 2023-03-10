@@ -2,6 +2,13 @@
 
 Journal of my learning progress in blockchain programming and security
 
+#### DAY 37 10-mar-2023
+
+
+#### DAY 36 9-mar-2023
+- Read the [Blockthreat Intelligence newsletter](https://newsletter.blockthreat.io/p/blockthreat-week-9-2023)
+- Really liked this article about the inflation attack related to ERC-4626 vaults: https://mixbytes.io/blog/overview-of-the-inflation-attack
+- Did not have time to study the C4 Aragon contest, same for tomorrow :`( But I'm really eager to read the report when it will come out!
 
 #### DAY 35 8-mar-2023
 - Spent some time on the C4 Aragon contest
