@@ -2,6 +2,10 @@
 
 Journal of my learning progress in blockchain programming and security
 
+#### DAY 41 14-mar-2023
+- Continued exploring Neo Tokyo codebase. While Aragon was a way more complex project, it was easier to understand and follow.
+Project really need to be well documented and well organized, because this can make an audit way more time-efficient and effective.
+- Read Secureum Security Pitfalls & Best Practices 101/201 while exploring the codebase
 
 #### DAY 40 13-mar-2023
 Started (a bit late) the Neo Tokyo C4 Contest
