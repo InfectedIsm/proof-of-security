@@ -2,12 +2,21 @@
 
 Journal of my learning progress in blockchain programming and security
 
-#### DAY 37 10-mar-2023
 
+#### DAY 40 13-mar-2023
+Started (a bit late) the Neo Tokyo C4 Contest
+
+#### DAY 38 11-mar-2023 & DAY 39 12-mar-2023
+Days off ! 
+
+#### DAY 37 10-mar-2023
+- Continued reading the [Blockthreat Intelligence newsletter](https://newsletter.blockthreat.io/p/blockthreat-week-9-2023)
+	- [Smart Contract Obfuscation Techniques](https://degatchi.com/articles/smart-contract-obfuscation) was really interesting. The guy  built a more optimized custom function selector, with custom bytecode (and more)
+	- [The interview of Zhuo and Brian](https://medium.com/code4rena/demystifying-exploitable-bugs-in-smart-contracts-with-zhuo-and-brian-f8649d4c427f) who wrote this very important paper about the state of smart contract vulnerabilities was also very interesting (and their advices about auditing)
 
 #### DAY 36 9-mar-2023
 - Read the [Blockthreat Intelligence newsletter](https://newsletter.blockthreat.io/p/blockthreat-week-9-2023)
-- Really liked this article about the inflation attack related to ERC-4626 vaults: https://mixbytes.io/blog/overview-of-the-inflation-attack
+	- Really liked this article about the inflation attack related to ERC-4626 vaults: https://mixbytes.io/blog/overview-of-the-inflation-attack
 - Did not have time to study the C4 Aragon contest, same for tomorrow :`( But I'm really eager to read the report when it will come out!
 
 #### DAY 35 8-mar-2023
