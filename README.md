@@ -1,6 +1,6 @@
 # Proof of Security
 
-Journal of my learning progress in blockchain programming and security
+Journal of my learning progress in blockchain programming and security. Don't forget to check also my ["before day 1 section!"](#Before-DAY-1)
 
 #### DAY 43 16-mar-2023
 - Studying the Frax contest (aug-2022). I've heard a lot about this stablecoin, that's a good way to learn more about it, and train my auditing skills at the same time!
