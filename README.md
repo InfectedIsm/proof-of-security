@@ -2,6 +2,9 @@
 
 Journal of my learning progress in blockchain programming and security
 
+#### DAY 43 16-mar-2023
+- Studying the Frax contest (aug-2022). I've heard a lot about this stablecoin, that's a good way to learn more about it, and train my auditing skills at the same time!
+
 #### DAY 42 15-mar-2023
 - Submited my first report for the Neo Tokyo C4 contest!
 I must admit this is not a great report, I did not had enough time to write it because of my planning today. But I'm happy to have submitted something, I've discovered the tools, the process a bit, and a barrier has been broken. For sure the next one will be better :)`
@@ -45,7 +48,7 @@ The Aragon codebase is pretty big for a start, but I'm learning a lot even if no
 #### DAY 33 6-mar-2023
 - Spent some time on the C4 Aragon contest
 I've read the documentation and tried to understand the code
-____
+
 #### DAY 32 5-mar-2023
 - Started C4 Aragon contest 
 
@@ -241,55 +244,50 @@ I've already completed the #10, but I'm a bit late on my articles, but at the en
 
 Today :
 
-- I implemented the solution to #10 Free Rider from Damn Vulnerable DeFi, this is a step further from the previous challenges, loved it
-
-I think this challenge goes a step further as the solution require more research and reading outside of the challenge contracts themselves.
-Can't wait to discover #11.
-But first I need to catch up on my [CTF write-ups](https://medium.com/@infectedf)
-
-- Read through the EVM deep dives post from Noxx substack
-
-Noxx blogposts are incredibly well written, a go-to if you want to understand how solidity is compiled into opcodes, and how the EVM work through this.
-I don't know who created the EVM Playground but his work is a gift to us, learners!
+>- I implemented the solution to #10 Free Rider from Damn Vulnerable DeFi, this is a step further from the previous challenges, loved it
+>
+>I think this challenge goes a step further as the solution require more research and reading outside of the challenge contracts themselves.
+>Can't wait to discover #11.
+>But first I need to catch up on my [CTF write-ups](https://medium.com/@infectedf)
+>
+>- Read through the EVM deep dives post from Noxx substack
+>
+>Noxx blogposts are incredibly well written, a go-to if you want to understand how solidity is compiled into opcodes, and how the EVM work through this.
+>I don't know who created the EVM Playground but his work is a gift to us, learners!
 
 [https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-d6b](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-d6b)
 
 #### DAY 5 : 6-fev-2023
 
-today i read the Uniswap V2 whitepaper + a great blogpost from [@samczsun](https://twitter.com/samczsun) on oracles price manipulation (i’m sharing it at the end)
-
-Very well written, i prefered reading the whitepaper over the documentation, as all choices are explained, great reading from an auditor standpoint. 100% recommended to read it : [https://docs.uniswap.org/whitepaper.pdf](https://t.co/2q5FgcaMEh)
-
-The note [3] from this whitepaper leads to a great blogpost from samczsun on an oracle price manipulation, but i would like to share it another one from his blog which sumarize this topic + gives hints on how to mitigate these risks : gold!
+>today i read the Uniswap V2 whitepaper + a great blogpost from [@samczsun](https://twitter.com/samczsun) on oracles price manipulation (i’m sharing it at the end)
+>
+>Very well written, i prefered reading the whitepaper over the documentation, as all choices are explained, great reading from an auditor standpoint. 100% recommended to read it : [https://docs.uniswap.org/whitepaper.pdf](https://t.co/2q5FgcaMEh)
+>
+>The note [3] from this whitepaper leads to a great blogpost from samczsun on an oracle price manipulation, but i would like to share it another one from his blog which sumarize this topic + gives hints on how to mitigate these risks : gold!
 
 #### DAY 4 : 5-fev-2023
 
-Went back to #10 free-rider from Damn Vulnerable DeFi this morning, eat, thought about it whil eating, took a train for a 3h travel, and found the solution!
-
-This challenge forced me to dig into UniV2 documentation, I feel way more confident about it now!
+>Went back to #10 free-rider from Damn Vulnerable DeFi this morning, eat, thought about it whil eating, took a train for a 3h travel, and found the solution!
+>This challenge forced me to dig into UniV2 documentation, I feel way more confident about it now!
 
 #### DAY 3 : 4-fev-2023
 
-Today I spent most of my time on challenge #10 from CTF Damn Vulnerable DeFi : [https://www.damnvulnerabledefi.xyz/](https://www.damnvulnerabledefi.xyz/)
-
-If I can give you an advice : don't give up on these challenges, you will learn a lot if you solve them by yourself. I'm giving you an alpha from [@pashovkrum](https://twitter.com/pashovkrum) if you find something hard, most of your competitor will find it hard too first time. Make the diff and don't giveup
-
-My own advice : don't try to rush everything, do it on your own pace. My style is to follow my curiosity. This can slow you down, but on the long run you will get a lot more depth
+>Today I spent most of my time on challenge #10 from CTF Damn Vulnerable DeFi : [https://www.damnvulnerabledefi.xyz/](https://www.damnvulnerabledefi.xyz/)
+>If I can give you an advice : don't give up on these challenges, you will learn a lot if you solve them by yourself. I'm giving you an alpha from [@pashovkrum](https://twitter.com/pashovkrum) if you find something hard, most of your competitor will find it hard too first time. Make the diff and don't giveup
+>My own advice : don't try to rush everything, do it on your own pace. My style is to follow my curiosity. This can slow you down, but on the long run you will get a lot more depth
 
 #### DAY 2 : 3-fev-2023
 
-Finished my Solidity 201 Quizz writeup !
+>Finished my Solidity 201 Quizz writeup !
 Will probably start next quizz tomorrow.
 This is a great way to practice and learn when you don't have that much time on your schedule !
 
 #### DAY 1 : 2-fev-2023
 
-A challenge started on Discord Web3SecurityDAO, its called #30daysweb3security 
-
-I was already trying to work each and every day on web3 security, but doing it publicly with a group can be very encouraging!
-
-Let's try to run this challenge !
-Today I'm continuing writeups of [@Secureum](https://twitter.com/Secureum) quizzes, a great way to test my knowledge and then fixing it in my mind by doing research and writing them !
+>A challenge started on Discord Web3SecurityDAO, its called #30daysweb3security 
+>I was already trying to work each and every day on web3 security, but doing it publicly with a group can be very encouraging!
+>Let's try to run this challenge !
+>Today I'm continuing writeups of [@Secureum](https://twitter.com/Secureum) quizzes, a great way to test my knowledge and then fixing it in my mind by doing research and writing them !
 
 [InfectedIsm/some-quizz](https://t.co/ivP1CjuDV8)
 
