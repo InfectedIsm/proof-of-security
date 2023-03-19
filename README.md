@@ -2,6 +2,9 @@
 
 Journal of my learning progress in blockchain programming and security. Don't forget to check also my ["before day 1 section!"](#Before-DAY-1)
 
+#### DAY 46 19-mar-2023
+> Continued the Canto Identity C4 contest
+
 #### DAY 45 18-mar-2023
 > Started the Canto Identity C4 contest
 
@@ -15,7 +18,6 @@ Journal of my learning progress in blockchain programming and security. Don't fo
 >- Submited my first report for the Neo Tokyo C4 contest!
 >I must admit this is not a great report, I did not had enough time to write it because of my planning today. But I'm happy to have submitted something, I've discovered the tools, the process a bit, and a barrier has been broken. For sure the next one will be better :)`
 >- Started learning regex, I'm sure this is a very important tool to find some specific patterns, and thus better catch some vulnerabilities.
-
 
 #### DAY 41 14-mar-2023
 >- Continued exploring Neo Tokyo codebase. While Aragon was a way more complex project, it was easier to understand and follow.
