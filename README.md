@@ -2,14 +2,26 @@
 
 Journal of my learning progress in blockchain programming and security. Don't forget to check also my ["before day 1 section!"](#Before-DAY-1)
 
+#### DAY 49 22-mar-2023
+> - Read the Biconomy report. I understand that before focusing on fiding medium issues, I should at least be able to find most of the gas and QA/Low issues pretty easily while going through a codebase. I'm not there yet, but I will work in this direction.
+> I'm pretty sure this will lead to better understanding of the code, better methodology, and then give me more time and energy to focus on higher issues.
+> - I also read the [Blockthreat intelligence](https://newsletter.blockthreat.io/p/blockthreat-week-11-2023) as usual. A lot of interesting articles and hack walkthrough. 
+
+#### DAY 48 21-mar-2023
+> - Read the Looksrare report and started exploring some degen DeFi project (also reading their code published on etherscan)
+> - Also read the EIP-1155 in detail. I remember few weeks ago being unable to read it properly, or any other EIP for that matter. I'm glad I'm getting better at it.
+
+#### DAY 47 20-mar-2023
+>- Last day of the Canto Identity C4 contest. Did not have so much time to spend on it, but submited a report with some gas and a low issue! I have the feeling that I'm more comfortable exploring a code base.
+
 #### DAY 46 19-mar-2023
-> Continued the Canto Identity C4 contest
+>- Continued the Canto Identity C4 contest
 
 #### DAY 45 18-mar-2023
-> Started the Canto Identity C4 contest
+>- Started the Canto Identity C4 contest
 
 #### DAY 44 17-mar-2023
-> Finished reading the report of the Frax contest, it was really interesting. I'm really impressed by the medium findings, which require for the researcher to get deep into the code maths (easy maths, but still it requires some time)
+>- Finished reading the report of the Frax contest, it was really interesting. I'm really impressed by the medium findings, which require for the researcher to get deep into the code maths (easy maths, but still it requires some time)
 
 #### DAY 43 16-mar-2023
 >- Studying the Frax contest (aug-2022). I've heard a lot about this stablecoin, that's a good way to learn more about it, and train my auditing skills at the same time!
@@ -25,10 +37,10 @@ Journal of my learning progress in blockchain programming and security. Don't fo
 >- Read Secureum Security Pitfalls & Best Practices 101/201 while exploring the codebase
 
 #### DAY 40 13-mar-2023
->Started (a bit late) the Neo Tokyo C4 Contest
+>- Started (a bit late) the Neo Tokyo C4 Contest
 
 #### DAY 38 11-mar-2023 & DAY 39 12-mar-2023
->Days off ! 
+>- Days off ! 
 
 #### DAY 37 10-mar-2023
 >- Continued reading the [Blockthreat Intelligence newsletter](https://newsletter.blockthreat.io/p/blockthreat-week-9-2023)
@@ -66,7 +78,7 @@ I've read the documentation and tried to understand the code
 I will do Aragon as there's only 2 days left to Ethos, and Aragon seems easier to understand
 
 #### DAY 30 3-mar-2023
->Suceeded in the #30daysweb3security challenge!
+>- Suceeded in the #30daysweb3security challenge!
 Thank you to the @Web3SecurityDAO for organizing this! 
 >- I finally solved Damn Vuln DeFI #12 Climber!
 Struggled so much bc of the execute/schedule ids+ manipulating the arrays, to finally get a pretty clean solution!
@@ -78,19 +90,16 @@ There's still the WETH11 available to solve
 I like the idea of a leaderboard, remind me of CaptureTheEther but with a time limit 
 
 #### DAY 29 2-mar-2023
->Still not able to implement correctly Damn Vuln DeFi #12 correctly, but I'm half way
+>- Still not able to implement correctly Damn Vuln DeFi #12 correctly, but I'm half way
 Continued reading Biconomy 2022-03 report
 
 #### DAY 28 1-mar-2023
->Bonked my head over Damn Vulnerable DeFi #12, I know I have the solution but issues to implement it.
+>- Bonked my head over Damn Vulnerable DeFi #12, I know I have the solution but issues to implement it.
 When its like this, I'm better waiting tomorrow, it usually works better!
 
 #### DAY 27 28-fev-2023
->Started to get into the C4 Biconomy audit report, participating in the weekly audit study club from 
-@Web3SecurityDAO
-While for past report I wasn't reading the project documentation, this time 
-@ArtemkaWeb3
- proposed to read the doc day1, good idea!
+>- Started to get into the C4 Biconomy audit report, participating in the weekly audit study club from @Web3SecurityDAO
+> While for past report I wasn't reading the project documentation, this time @ArtemkaWeb3 proposed to read the doc day1, good idea!
 
 #### DAY 26 27-fev-2023
 >- I'm pretty sure I found the solution to Damn Vulnerable DeFi #12 Climber!
@@ -107,7 +116,7 @@ While for past report I wasn't reading the project documentation, this time
 >Tomorrow I'll participate to the RACE 15!
 
 #### DAY 23 : 24-fev-2023
->Worked on [Secureum Race](https://ventral.digital/posts/2022/8/29/secureum-bootcamp-epoch-august-race-9) 6 to 9
+>- Worked on [Secureum Race](https://ventral.digital/posts/2022/8/29/secureum-bootcamp-epoch-august-race-9) 6 to 9
 
 #### DAY 22 : 23-fev-2023
 >- Read the last Block Threat Intelligence newsletter (not entirely yet, too many of interesting topics in there)
