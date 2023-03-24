@@ -2,6 +2,14 @@
 
 Journal of my learning progress in blockchain programming and security. Don't forget to check also my ["before day 1 section!"](#Before-DAY-1)
 
+#### DAY 51 24-mar-2023
+> Read this very interesting article about [Encrypted Mempools](https://joncharbonneau.substack.com/p/encrypted-mempools). Talks about privacy and protection against MEV.
+
+#### DAY 50 23-mar-2023
+> - Read the whole EIP-4337, I feel like this will break a lot of contract logic based on `address.code.length` to differentiate between contracts and EOA. Because after EIP-4337, there every address will have a logic behind it.
+> - Started studying Chainlink protocol, for now just reading the doc, but I will go through the codebase soon. I've always been interested in oracles, and I think this is a good way to learn more about them.
+
+
 #### DAY 49 22-mar-2023
 > - Read the Biconomy report. I understand that before focusing on fiding medium issues, I should at least be able to find most of the gas and QA/Low issues pretty easily while going through a codebase. I'm not there yet, but I will work in this direction.
 > I'm pretty sure this will lead to better understanding of the code, better methodology, and then give me more time and energy to focus on higher issues.
