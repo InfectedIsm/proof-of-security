@@ -2,6 +2,9 @@
 
 Journal of my learning progress in blockchain programming and security. Don't forget to check also my ["before day 1 section!"](#Before-DAY-1)
 
+#### DAY 52 25-mar-2023
+> - Spend a lot of time on the QuillCTF challenge [SlotPuzzle](https://quillctf.super.site/challenges/quillctf-challenges/slot-puzzle) but did not manage to solve it for now
+
 #### DAY 51 24-mar-2023
 > Read this very interesting article about [Encrypted Mempools](https://joncharbonneau.substack.com/p/encrypted-mempools). Talks about privacy and protection against MEV.
 
