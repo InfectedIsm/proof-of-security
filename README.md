@@ -2,7 +2,14 @@
 
 Journal of my learning progress in blockchain programming and security. Don't forget to check also my ["before day 1 section!"](#Before-DAY-1)
 
-#### DAY 53 25-mar-2023
+
+#### DAY 55 28-mar-2023
+
+#### DAY 54 27-mar-2023
+> Read EIP-712 & EIP-2612 (the latter being an extension of EIP-712, but for ERC-20 tokens to add a permit functionnality)
+> Started the Assymetry C4 contest
+
+#### DAY 53 26-mar-2023
 > - Read EVM Deep Dives: The Path to Shadowy Super Coder [Part 3](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-3ea?s=r) and [Part 4](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-5a5?s=r)
 
 #### DAY 52 25-mar-2023
