@@ -3,7 +3,20 @@
 Journal of my learning progress in blockchain programming and security. Don't forget to check also my ["before day 1 section!"](#Before-DAY-1)
 
 
+#### DAY 60 02-mar-2023
+#### DAY 59 01-mar-2023
+#### DAY 58 31-mar-2023
+Was AFK for a few days!
+
+#### DAY 57 30-mar-2023
+> I found my first medium, some gas and QA ! Really happy with that! Now I will have to wait ~1month to get the results :'(
+
+#### DAY 56 29-mar-2023
+> Continued the Assymetry C4 contest
+
 #### DAY 55 28-mar-2023
+> Continued the Assymetry C4 contest. This time I have decided I will focus on gas/QA/Low issues, and try to find as many as possible.
+> I think this is a great way to train my focus and audit muscle. Also, I will have things to write down to train reporting.
 
 #### DAY 54 27-mar-2023
 > Read EIP-712 & EIP-2612 (the latter being an extension of EIP-712, but for ERC-20 tokens to add a permit functionnality)
