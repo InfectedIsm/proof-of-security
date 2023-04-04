@@ -2,6 +2,12 @@
 
 Journal of my learning progress in blockchain programming and security. Don't forget to check also my ["before day 1 section!"](#Before-DAY-1)
 
+#### DAY 62 04-mar-2023
+> - Spend 2h on the QuillCTF challenge [SlotPuzzle](https://quillctf.super.site/challenges/quillctf-challenges/slot-puzzle) 
+> I was able to uncipher the procedure to calculate the slot using the [solidity doc](https://docs.soliditylang.org/en/v0.8.17/internals/layout_in_storage.html#mappings-and-dynamic-arrays), but still I haven't solved it. The dev behind is really evil
+
+#### DAY 61 03-mar-2023
+> - Read articles from [Week in Ethereum](https://weekinethereumnews.com/) section 'Security'
 
 #### DAY 60 02-mar-2023
 #### DAY 59 01-mar-2023
