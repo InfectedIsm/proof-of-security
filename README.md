@@ -2,9 +2,13 @@
 
 Journal of my learning progress in blockchain programming and security. Don't forget to check also my ["before day 1 section!"](#Before-DAY-1)
 
+#### DAY 64 07-mar-2023
+> Started the Rubicon C4 Contest
+
 #### DAY 63 05-mar-2023
 > - read the [Blockthreat intelligence](https://newsletter.blockthreat.io/p/blockthreat-week-13-2023)
 > - Spent 1h30 on the QuillCTF challenge [SlotPuzzle](https://quillctf.super.site/challenges/quillctf-challenges/slot-puzzle), still cannot solve it...  
+> 
 
 #### DAY 62 04-mar-2023
 > - Spend 2h on the QuillCTF challenge [SlotPuzzle](https://quillctf.super.site/challenges/quillctf-challenges/slot-puzzle) 
