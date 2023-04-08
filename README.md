@@ -2,8 +2,13 @@
 
 Journal of my learning progress in blockchain programming and security. Don't forget to check also my ["before day 1 section!"](#Before-DAY-1)
 
-#### DAY 64 07-mar-2023
-> Started the Rubicon C4 Contest
+#### DAY 66 08-mar-2023
+> Continued the Rubicon C4 Contest.
+
+#### DAY 65 07-mar-2023
+> Started the Rubicon C4 Contest.
+
+#### DAY 64 06-mar-2023
 
 #### DAY 63 05-mar-2023
 > - read the [Blockthreat intelligence](https://newsletter.blockthreat.io/p/blockthreat-week-13-2023)
