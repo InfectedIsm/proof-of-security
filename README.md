@@ -2,8 +2,16 @@
 
 Journal of my learning progress in blockchain programming and security. Don't forget to check also my ["before day 1 section!"](#Before-DAY-1)
 
-#### DAY 66 08-mar-2023
-> Continued the Rubicon C4 Contest.
+#### DAY 70 11-mar-2023
+
+#### DAY 69 10-mar-2023
+> Spend some time studying Compound, as the Rubicon protocol v2 uses Compound cToken and Comptroller as a component.
+
+#### DAY 68 09-mar-2023
+> Continued the Rubicon C4 Contest. 
+
+#### DAY 67 08-mar-2023
+> Continued the Rubicon C4 Contest. Still focusing on gas/QA/Low issues.
 
 #### DAY 65 07-mar-2023
 > Started the Rubicon C4 Contest.
