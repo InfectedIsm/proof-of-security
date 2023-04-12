@@ -2,19 +2,26 @@
 
 Journal of my learning progress in blockchain programming and security. Don't forget to check also my ["before day 1 section!"](#Before-DAY-1)
 
+#### DAY 71 12-mar-2023
+> - Starting writing my report. 
+> I feel like I need to start reading a lot of reports, as I'm not able to find a lot of issues. I'm lacking a "mind database" of issues.
+> I still found a potential medium though.
+> - Read (a part of) the RubiconV1 report 
+
 #### DAY 70 11-mar-2023
+> Continued the RubiconV2 C4 Contest. 
 
 #### DAY 69 10-mar-2023
 > Spend some time studying Compound, as the Rubicon protocol v2 uses Compound cToken and Comptroller as a component.
 
 #### DAY 68 09-mar-2023
-> Continued the Rubicon C4 Contest. 
+> Continued the RubiconV2 C4 Contest. 
 
 #### DAY 67 08-mar-2023
-> Continued the Rubicon C4 Contest. Still focusing on gas/QA/Low issues.
+> Continued the RubiconV2 C4 Contest. Still focusing on gas/QA/Low issues.
 
 #### DAY 65 07-mar-2023
-> Started the Rubicon C4 Contest.
+> Started the RubiconV2 C4 Contest.
 
 #### DAY 64 06-mar-2023
 
