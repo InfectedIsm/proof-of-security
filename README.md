@@ -2,6 +2,10 @@
 
 Journal of my learning progress in blockchain programming and security. Don't forget to check also my ["before day 1 section!"](#Before-DAY-1)
 
+#### DAY 71 13-mar-2023
+> Published my report. Finally got no medium... 
+>I decided to make a break from C4 contests for a few weeks and start reading reports, PoC'ing findings myself, and filling my personnal vunlerability database. Let's go !
+
 #### DAY 71 12-mar-2023
 > - Starting writing my report. 
 > I feel like I need to start reading a lot of reports, as I'm not able to find a lot of issues. I'm lacking a "mind database" of issues.
@@ -40,7 +44,7 @@ Journal of my learning progress in blockchain programming and security. Don't fo
 #### DAY 60 02-mar-2023
 #### DAY 59 01-mar-2023
 #### DAY 58 31-mar-2023
-Was AFK for a few days!
+> Was AFK for a few days!
 
 #### DAY 57 30-mar-2023
 > I found my first medium, some gas and QA ! Really happy with that! Now I will have to wait ~1month to get the results :'(
