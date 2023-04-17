@@ -2,16 +2,20 @@
 
 Journal of my learning progress in blockchain programming and security. Don't forget to check also my ["before day 1 section!"](#Before-DAY-1)
 
-#### DAY 71 13-mar-2023
+#### DAY 76 17-mar-2023
+> Peeking an eye into [Picodes/4naly3er](https://github.com/Picodes/4naly3er) tool which is used at the start of each contest to generate the [automated findings](https://gist.github.com/Picodes/e9f1bb87ae832695694175abd8f9797f)
+> I plan to add my own rules to it, because during last contests I spend a lot of time searching for my QA/Gas occurences using regex. Better to have a tool for that which automatically generate the report right ?
+
+#### DAY 75 16-mar-2023
 > Studying C4 NeoTokyo report. I participated to this contest, but couldn't find anything. 
 > I was waiting SO much to get a report of a protocol I participated to.
 > I've also analyzed the QA/Low report which got rewarded and from what I can see, I will need to : 1) use an automated tool like the picode one for the 'dumb' findings, 2) value original findings even in gas and low issues (2 is what I've done in the next ones)
 
-#### DAY 71 15-mar-2023
-#### DAY 71 14-mar-2023
+#### DAY 74 15-mar-2023
+#### DAY 73 14-mar-2023
 > AFK ⌨
 
-#### DAY 71 13-mar-2023
+#### DAY 72 13-mar-2023
 > Published my report. Finally got no medium... 
 >I decided to make a break from C4 contests for a few weeks and start reading reports, PoC'ing findings myself, and filling my personnal vunlerability database. Let's go !
 
