@@ -2,6 +2,9 @@
 
 Journal of my learning progress in blockchain programming and security. Don't forget to check also my ["before day 1 section!"](#Before-DAY-1)
 
+#### DAY 77 18-mar-2023
+>What a great day, [Block Threat Intelligence week 15](https://newsletter.blockthreat.io/p/blockthreat-week-15-2023) is out
+
 #### DAY 76 17-mar-2023
 > Peeking an eye into [Picodes/4naly3er](https://github.com/Picodes/4naly3er) tool which is used at the start of each contest to generate the [automated findings](https://gist.github.com/Picodes/e9f1bb87ae832695694175abd8f9797f)
 > I plan to add my own rules to it, because during last contests I spend a lot of time searching for my QA/Gas occurences using regex. Better to have a tool for that which automatically generate the report right ?
