@@ -2,6 +2,15 @@
 
 Journal of my learning progress in blockchain programming and security. Don't forget to check also my ["before day 1 section!"](#Before-DAY-1)
 
+#### DAY 80 19-mar-2023
+> Started creating my own tool I call "AutoAuditReport" which will generate a report template from audit tags present in the code
+
+#### DAY 79 19-mar-2023
+>AFK
+
+#### DAY 78 19-mar-2023
+> I understand [Picodes/4naly3er](https://github.com/Picodes/4naly3er) code, today I studied AST (Abstract Syntax Tree) and tried to generate one, as it is one of the filter used to find vulnerabilities
+
 #### DAY 77 18-mar-2023
 >What a great day, [Block Threat Intelligence week 15](https://newsletter.blockthreat.io/p/blockthreat-week-15-2023) is out
 
