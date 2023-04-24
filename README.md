@@ -1,12 +1,32 @@
 # Proof of Security
 
 Journal of my learning progress in blockchain programming and security. Don't forget to check also my ["before day 1 section!"](#Before-DAY-1)
+Right now I'm working as a Test & Measurement Support Engineer, specialized in RF and high throughput gen/acquisition systems.
+My goal: become a blockchain security engineer.
 
-#### DAY 80 19-mar-2023
+#### DAY 84 24-mar-2023
+> - Reading C4 Wenwin contest report. Did not participate to this contest. While studying a finding, I also try to read the associated sol file myself and understand it well. 
+> - In the same time, I'm still filling my personnal vulnerability database. I found out that now I am able to generalize some finding, this will help me to get used to some patterns. Also I try to find the associated triggers that should lead me to detect a potential issue.
+> - Trained in real condition on Secureum RACE-9.
+
+#### DAY 83 23-mar-2023
+> - My tool is now able to generate a report template from audit tags present in the code! Still haven't finished to polish it, once it's done I will publish it publicly on github.
+> - I also spend again some time on EIP-712/2612 and permit functions. It's always great to go back to something I've already studied, as I can see things I didn't see before.
+> - Trained in real condition on Secureum RACE-8.
+
+#### DAY 82 22-mar-2023
+> - Continued working on my tool.
+> - Trained in real condition on Secureum RACE-7.
+
+#### DAY 81 21-mar-2023
+> - Continued working on my tool.
+> - Trained in real condition on Secureum RACE-6.
+
+#### DAY 80 20-mar-2023
 > Started creating my own tool I call "AutoAuditReport" which will generate a report template from audit tags present in the code
 
 #### DAY 79 19-mar-2023
->AFK
+> AFK
 
 #### DAY 78 19-mar-2023
 > I understand [Picodes/4naly3er](https://github.com/Picodes/4naly3er) code, today I studied AST (Abstract Syntax Tree) and tried to generate one, as it is one of the filter used to find vulnerabilities
