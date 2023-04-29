@@ -5,6 +5,13 @@ Right now I'm working as a Test & Measurement Support Engineer, specialized in R
 My goal: become a blockchain security engineer.
 
 #### DAY 87 27-mar-2023
+> - Read Mute.io C4 Report
+> - Read Aave V1 documentation. Will then read V2 and finally V3. When reading V3, I will in the same time read the code. 
+
+#### DAY 87 28-mar-2023
+> Read Mute.io C4 Report
+
+#### DAY 87 27-mar-2023
 > Read GoGoPool C4 report
 
 #### DAY 86 26-mar-2023
