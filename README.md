@@ -4,108 +4,122 @@ Journal of my learning progress in blockchain programming and security. Don't fo
 Right now I'm working as a Test & Measurement Support Engineer, specialized in RF and high throughput gen/acquisition systems.
 My goal: become a blockchain security engineer.
 
-#### DAY 87 27-mar-2023
+#### DAY 93 3-may-2023
+> - Reding Ethos C4 report. Loved the [M1 finding report](https://code4rena.com/reports/2023-02-ethos/#m-01-low-data-feed-frequency-from-tellor-makes-your-protocol-vulnerable-to-flash-loan-attacks)
+
+#### DAY 92 2-may-2023
+> Wanted to change my readings and read this : [Searching On MEV-Share](https://writings.flashbots.net/searching-on-mev-share)
+> In the end, I think it was worth it, as it important as an auditor to be aware of MEV ecosystem as this can be a vector of exploit sometimes
+
+#### DAY 91 1-may-2023
+#### DAY 90 30-apr-2023
+> AFK 
+> ⌨
+
+#### DAY 89 29-apr-2023
 > - Read Mute.io C4 Report
 > - Read Aave V1 documentation. Will then read V2 and finally V3. When reading V3, I will in the same time read the code. 
 
-#### DAY 87 28-mar-2023
+#### DAY 87 28-apr-2023
 > Read Mute.io C4 Report
 
-#### DAY 87 27-mar-2023
+#### DAY 87 27-apr-2023
 > Read GoGoPool C4 report
 
-#### DAY 86 26-mar-2023
+#### DAY 86 26-apr-2023
 > Read Canto Subprotocol C4 Report
 
-#### DAY 85 25-mar-2023
+#### DAY 85 25-apr-2023
 > Read Wenwin C4 report
 
-#### DAY 84 24-mar-2023
+#### DAY 84 24-apr-2023
 > - Reading C4 Wenwin contest report. Did not participate to this contest. While studying a finding, I also try to read the associated sol file myself and understand it well. 
 > - In the same time, I'm still filling my personnal vulnerability database. I found out that now I am able to generalize some finding, this will help me to get used to some patterns. Also I try to find the associated triggers that should lead me to detect a potential issue.
 > - Trained in real condition on Secureum RACE-9.
 
-#### DAY 83 23-mar-2023
+#### DAY 83 23-apr-2023
 > - My tool is now able to generate a report template from audit tags present in the code! Still haven't finished to polish it, once it's done I will publish it publicly on github.
 > - I also spend again some time on EIP-712/2612 and permit functions. It's always great to go back to something I've already studied, as I can see things I didn't see before.
 > - Trained in real condition on Secureum RACE-8.
 
-#### DAY 82 22-mar-2023
+#### DAY 82 22-apr-2023
 > - Continued working on my tool.
 > - Trained in real condition on Secureum RACE-7.
 
-#### DAY 81 21-mar-2023
+#### DAY 81 21-apr-2023
 > - Continued working on my tool.
 > - Trained in real condition on Secureum RACE-6.
 
-#### DAY 80 20-mar-2023
+#### DAY 80 20-apr-2023
 > Started creating my own tool I call "AutoAuditReport" which will generate a report template from audit tags present in the code
 
-#### DAY 79 19-mar-2023
-> AFK ⌨
+#### DAY 79 19-apr-2023
+> AFK 
+> ⌨
 
-#### DAY 78 19-mar-2023
+#### DAY 78 19-apr-2023
 > I understand [Picodes/4naly3er](https://github.com/Picodes/4naly3er) code, today I studied AST (Abstract Syntax Tree) and tried to generate one, as it is one of the filter used to find vulnerabilities
 
-#### DAY 77 18-mar-2023
+#### DAY 77 18-apr-2023
 >What a great day, [Block Threat Intelligence week 15](https://newsletter.blockthreat.io/p/blockthreat-week-15-2023) is out
 
-#### DAY 76 17-mar-2023
+#### DAY 76 17-apr-2023
 > Peeking an eye into [Picodes/4naly3er](https://github.com/Picodes/4naly3er) tool which is used at the start of each contest to generate the [automated findings](https://gist.github.com/Picodes/e9f1bb87ae832695694175abd8f9797f)
 > I plan to add my own rules to it, because during last contests I spend a lot of time searching for my QA/Gas occurences using regex. Better to have a tool for that which automatically generate the report right ?
 
-#### DAY 75 16-mar-2023
+#### DAY 75 16-apr-2023
 > Studying C4 NeoTokyo report. I participated to this contest, but couldn't find anything. 
 > I was waiting SO much to get a report of a protocol I participated to.
 > I've also analyzed the QA/Low report which got rewarded and from what I can see, I will need to : 1) use an automated tool like the picode one for the 'dumb' findings, 2) value original findings even in gas and low issues (2 is what I've done in the next ones)
 
-#### DAY 74 15-mar-2023
-#### DAY 73 14-mar-2023
+#### DAY 74 15-apr-2023
+#### DAY 73 14-apr-2023
 > AFK ⌨
 
-#### DAY 72 13-mar-2023
+#### DAY 72 13-apr-2023
 > Published my report. Finally got no medium... 
 >I decided to make a break from C4 contests for a few weeks and start reading reports, PoC'ing findings myself, and filling my personnal vunlerability database. Let's go !
 
-#### DAY 71 12-mar-2023
+#### DAY 71 12-apr-2023
 > - Starting writing my report. 
 > I feel like I need to start reading a lot of reports, as I'm not able to find a lot of issues. I'm lacking a "mind database" of issues.
 > I still found a potential medium though.
 > - Read (a part of) the RubiconV1 report 
 
-#### DAY 70 11-mar-2023
+#### DAY 70 11-apr-2023
 > Continued the RubiconV2 C4 Contest. 
 
-#### DAY 69 10-mar-2023
+#### DAY 69 10-apr-2023
 > Spend some time studying Compound, as the Rubicon protocol v2 uses Compound cToken and Comptroller as a component.
 
-#### DAY 68 09-mar-2023
+#### DAY 68 09-apr-2023
 > Continued the RubiconV2 C4 Contest. 
 
-#### DAY 67 08-mar-2023
+#### DAY 67 08-apr-2023
 > Continued the RubiconV2 C4 Contest. Still focusing on gas/QA/Low issues.
 
-#### DAY 65 07-mar-2023
+#### DAY 65 07-apr-2023
 > Started the RubiconV2 C4 Contest.
 
-#### DAY 64 06-mar-2023
+#### DAY 64 06-apr-2023
 
-#### DAY 63 05-mar-2023
+#### DAY 63 05-apr-2023
 > - read the [Blockthreat intelligence](https://newsletter.blockthreat.io/p/blockthreat-week-13-2023)
 > - Spent 1h30 on the QuillCTF challenge [SlotPuzzle](https://quillctf.super.site/challenges/quillctf-challenges/slot-puzzle), still cannot solve it...  
 > 
 
-#### DAY 62 04-mar-2023
+#### DAY 62 04-apr-2023
 > - Spend 2h on the QuillCTF challenge [SlotPuzzle](https://quillctf.super.site/challenges/quillctf-challenges/slot-puzzle) 
 > I was able to uncipher the procedure to calculate the slot using the [solidity doc](https://docs.soliditylang.org/en/v0.8.17/internals/layout_in_storage.html#mappings-and-dynamic-arrays), but still I haven't solved it. The dev behind is really evil
 
-#### DAY 61 03-mar-2023
+#### DAY 61 03-apr-2023
 > - Read articles from [Week in Ethereum](https://weekinethereumnews.com/) section 'Security'
 
-#### DAY 60 02-mar-2023
-#### DAY 59 01-mar-2023
+#### DAY 60 02-apr-2023
+#### DAY 59 01-apr-2023
 #### DAY 58 31-mar-2023
-> Was AFK for a few days!
+> AFK 
+> ⌨
 
 #### DAY 57 30-mar-2023
 > I found my first medium, some gas and QA ! Really happy with that! Now I will have to wait ~1month to get the results :'(
