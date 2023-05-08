@@ -4,6 +4,27 @@ Journal of my learning progress in blockchain programming and security. Don't fo
 Right now I'm working as a Test & Measurement Support Engineer, specialized in RF and high throughput gen/acquisition systems.
 My goal: become a blockchain security engineer.
 
+#### DAY 98 8-may-2023
+> I'm preparing to the Versus C4 Contest. It is a Compound fork, so I checked how to diff the 2 repos in a pretty way
+
+#### DAY 97 7-may-2023
+> Read Trails of Bits [audit reports](https://github.com/trailofbits/publications/blob/master/reviews/compound-2.pdf) of Compound II
+
+#### DAY 96 6-may-2023
+> Got a way better understanding of the protocol, I'm forcing myself to try to understand the maths and calculations.
+> It was not easy to get my head around all these state variable names and link them to the whitepaper and docs
+
+#### DAY 95 5-may-2023
+> I cloned the [compound-protocol repo](https://github.com/compound-finance/compound-protocol/tree/master) and will go through the main contracts : 
+> - CToken.sol
+> 	- CEther.sol
+>	- CErc20.sol
+> - Comptroller.sol
+> And for sure I will go through the imported files and so on
+
+#### DAY 94 4-may-2023
+> Finally chosed to read Compound II documentation and code. Today I'm reading the whitepaper and the docs
+
 #### DAY 93 3-may-2023
 > - Reding Ethos C4 report. Loved the [M1 finding report](https://code4rena.com/reports/2023-02-ethos/#m-01-low-data-feed-frequency-from-tellor-makes-your-protocol-vulnerable-to-flash-loan-attacks)
 
