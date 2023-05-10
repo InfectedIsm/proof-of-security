@@ -4,8 +4,11 @@ Journal of my learning progress in blockchain programming and security. Don't fo
 Right now I'm working as a Test & Measurement Support Engineer, specialized in RF and high throughput gen/acquisition systems.
 My goal: become a blockchain security engineer.
 
+#### DAY 100 10-may-2023
+> Started to dig into the Venus doc and codebase
+
 #### DAY 98 8-may-2023
-> I'm preparing to the Versus C4 Contest. It is a Compound fork, so I checked how to diff the 2 repos in a pretty way
+> I'm preparing to the Venus C4 Contest. It is a Compound fork, so I checked how to diff the 2 repos in a pretty way
 
 #### DAY 97 7-may-2023
 > Read Trails of Bits [audit reports](https://github.com/trailofbits/publications/blob/master/reviews/compound-2.pdf) of Compound II
