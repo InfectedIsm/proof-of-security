@@ -6,6 +6,7 @@ My goal: become a blockchain security engineer.
 
 #### DAY 104 14-may-2023
 > Dig into the Venus doc and codebase
+> Also read Lending/Borrowing DeFi Attacks from [Dacian article](https://dacian.me/lending-borrowing-defi-attacks#heading-borrower-cant-be-liquidated)
 
 #### DAY 103 13-may-2023
 > Dig into the Venus doc and codebase
