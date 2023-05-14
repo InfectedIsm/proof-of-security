@@ -4,6 +4,18 @@ Journal of my learning progress in blockchain programming and security. Don't fo
 Right now I'm working as a Test & Measurement Support Engineer, specialized in RF and high throughput gen/acquisition systems.
 My goal: become a blockchain security engineer.
 
+#### DAY 104 14-may-2023
+> Dig into the Venus doc and codebase
+
+#### DAY 103 13-may-2023
+> Dig into the Venus doc and codebase
+
+#### DAY 102 12-may-2023
+> Dig into the Venus doc and codebase
+
+#### DAY 101 11-may-2023
+> Dig into the Venus doc and codebase
+
 #### DAY 100 10-may-2023
 > Started to dig into the Venus doc and codebase
 
