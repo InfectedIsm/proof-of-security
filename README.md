@@ -4,6 +4,10 @@ Journal of my learning progress in blockchain programming and security. Don't fo
 Right now I'm working as a Test & Measurement Support Engineer, specialized in RF and high throughput gen/acquisition systems.
 My goal: become a blockchain security engineer.
 
+#### DAY 105 15-may-2023
+> Wrote my QA Report. Even if I didn't find any H-M, I'm pretty happy with this one as I can see that I'm way more attentive to details. In fact, I was probably close to a Medium, but found it too late and wasn't able unroll it to the end. 
+> This contest was a great step forward, I'm faster to read a big codebase, I'm able to understand it better, so now its time to dive back again to reading reports and articles to grow my internal database of vulnerabilities!
+
 #### DAY 104 14-may-2023
 > Dig into the Venus doc and codebase
 > Also read Lending/Borrowing DeFi Attacks from [Dacian article](https://dacian.me/lending-borrowing-defi-attacks#heading-borrower-cant-be-liquidated)
