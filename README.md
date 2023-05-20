@@ -4,6 +4,18 @@ Journal of my learning progress in blockchain programming and security. Don't fo
 Right now I'm working as a Test & Measurement Support Engineer, specialized in RF and high throughput gen/acquisition systems.
 My goal: become a blockchain security engineer.
 
+
+#### DAY 109 19-may-2023
+> Reading [Blockthreat intelligence week 19](https://newsletter.blockthreat.io/p/blockthreat-week-19-2023)
+
+#### DAY 109 19-may-2023
+#### DAY 108 18-may-2023
+#### DAY 107 17-may-2023
+AFK
+
+#### DAY 106 16-may-2023
+> Reading [Blockthreat intelligence week 18](https://newsletter.blockthreat.io/p/blockthreat-week-18-2023)
+
 #### DAY 105 15-may-2023
 > Wrote my QA Report. Even if I didn't find any H-M, I'm pretty happy with this one as I can see that I'm way more attentive to details. In fact, I was probably close to a Medium, but found it too late and wasn't able unroll it to the end. 
 > This contest was a great step forward, I'm faster to read a big codebase, I'm able to understand it better, so now its time to dive back again to reading reports and articles to grow my internal database of vulnerabilities!
