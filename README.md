@@ -4,9 +4,13 @@ Journal of my learning progress in blockchain programming and security. Don't fo
 Right now I'm working as a Test & Measurement Support Engineer, specialized in RF and high throughput gen/acquisition systems.
 My goal: become a blockchain security engineer.
 
+#### DAY 111 21-may-2023
+> Same as day 110 : )
 
-#### DAY 109 19-may-2023
+
+#### DAY 110 20-may-2023
 > Reading [Blockthreat intelligence week 19](https://newsletter.blockthreat.io/p/blockthreat-week-19-2023)
+> Studying [Dacian Precision Loss Errors article](https://dacian.me/precision-loss-errors#heading-division-before-multiplication)
 
 #### DAY 109 19-may-2023
 #### DAY 108 18-may-2023
