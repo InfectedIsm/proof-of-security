@@ -4,8 +4,14 @@ Journal of my learning progress in blockchain programming and security. Don't fo
 Right now I'm working as a Test & Measurement Support Engineer, specialized in RF and high throughput gen/acquisition systems.
 My goal: become a blockchain security engineer.
 
+#### DAY 112 22-may-2023
+> Started the Sherlock GMX contest (12000 SLOC, ouch). Will first read the repo doc and site doc
+> RACE-12 with a web3sec buddy
+
+
 #### DAY 111 21-may-2023
 > Same as day 110 : )
+> Also did RACE-11 with a web3sec buddy (calculated score : 6.33)
 
 
 #### DAY 110 20-may-2023
