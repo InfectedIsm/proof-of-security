@@ -4,6 +4,13 @@ Journal of my learning progress in blockchain programming and security. Don't fo
 Right now I'm working as a Test & Measurement Support Engineer, specialized in RF and high throughput gen/acquisition systems.
 My goal: become a blockchain security engineer.
 
+#### DAY 1167 27-may-2023
+> Started my new project to prepare my coding skills for the ETH Global Paris Hackaton! I called it TogetherShitcoin which aim to solve the lack of liquidity simple user can face when they need to deploy a token with its associated liquidity pool.
+
+#### DAY 116 26-may-2023
+> Continued the Sherlock GMX contest. But I decided I will stop here for this one. This is a too big project, and I have the feeling that I'm not auditing solidity code, but rather a huge framework they developped. + they implements DeFi concepts I'm not familiar with. 
+
+
 #### DAY 115 25-may-2023
 > Read the [Blockthreat intelligence week 20](https://newsletter.blockthreat.io/p/blockthreat-week-20-2023)
 > Continued the Sherlock GMX contest
