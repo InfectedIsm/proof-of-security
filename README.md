@@ -4,7 +4,23 @@ Journal of my learning progress in blockchain programming and security. Don't fo
 Right now I'm working as a Test & Measurement Support Engineer, specialized in RF and high throughput gen/acquisition systems.
 My goal: become a blockchain security engineer.
 
-#### DAY 1167 27-may-2023
+#### DAY 126 6-june-2023
+> Went back to my project
+
+#### DAY 121 to 125 1-june-2023 to 5-june-2023
+> AFK
+
+#### DAY 120 30-may-2023
+> Started reading the [UNISWAP-V2 CONTRACT WALK-THROUGH](https://ethereum.org/en/developers/tutorials/uniswap-v2-annotated-code/#introduction)
+
+#### DAY 119 29-may-2023
+> Started to write a threat model for the already written contracts. I will 100% use threat models now for my future audits
+> Also continued to write the code. I've learned so much in the last 2 days about security. I understand now why PatrickCollins said during an interview that for him, being a dev can be very important as an auditor
+
+#### DAY 118 28-may-2023
+> After writing down the specs and a diagram (yesterday) I started writing the code.
+
+#### DAY 117 27-may-2023
 > Started my new project to prepare my coding skills for the ETH Global Paris Hackaton! I called it TogetherShitcoin which aim to solve the lack of liquidity simple user can face when they need to deploy a token with its associated liquidity pool.
 
 #### DAY 116 26-may-2023
