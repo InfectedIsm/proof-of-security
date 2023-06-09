@@ -4,6 +4,16 @@ Journal of my learning progress in blockchain programming and security. Don't fo
 Right now I'm working as a Test & Measurement Support Engineer, specialized in RF and high throughput gen/acquisition systems.
 My goal: become a blockchain security engineer.
 
+#### DAY 129 9-june-2023
+> - Started to code the ERC20 with fees. To do so, I need to understand how UniswapV2 (or similar) works: how swap are done, when fees should be taken, and how to test it in a proper way. I'm not sure right now if I should deploy a mock UniV2 or fork the blockchain and test on it.
+
+#### DAY 128 8-june-2023
+> - Not easy to write tests! 
+> - Read [Blockthreat intelligence week 21](https://newsletter.blockthreat.io/p/blockthreat-week-20-2023). Great articles on CDP (Collateralized Debt Position) vulnerabilities!
+
+#### DAY 127 7-june-2023
+> Started to write the tests files. I know this will help me to write tests for my future audit contests
+
 #### DAY 126 6-june-2023
 > Went back to my project
 
