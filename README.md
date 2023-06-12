@@ -4,6 +4,15 @@ Journal of my learning progress in blockchain programming and security. Don't fo
 Right now I'm working as a Test & Measurement Support Engineer, specialized in RF and high throughput gen/acquisition systems.
 My goal: become a blockchain security engineer.
 
+#### DAY 132 12-june-2023
+> Quick break to train again on auditing contests. This time with a friend, we will audit an already finished contest, and compare our results together, and with the actual report. The contest is [WenWin](https://code4rena.com/reports/2023-03-wenwin)
+
+#### DAY 131 11-june-2023
+> Yesterday I had some issues to make my contract work with fees, had some errors, which forced me to read line by line the UniV2 code. Finally I found my error (which was stupid at the end, but sometiems its hard to just stop and think deeply for half a minute).
+
+#### DAY 130 10-june-2023
+> - Worked a lot on my ERC20, mostly testing it. I learned how to fork from the mainnet, i didn't think it would be so easy! (after reading for 1h...). Then I had some trouble to write the test, so I had to read carefully the UniV2 Router/Pair documentation, and finally, I was able to write some tests. Learned a lot on this session.
+
 #### DAY 129 9-june-2023
 > - Started to code the ERC20 with fees. To do so, I need to understand how UniswapV2 (or similar) works: how swap are done, when fees should be taken, and how to test it in a proper way. I'm not sure right now if I should deploy a mock UniV2 or fork the blockchain and test on it.
 
