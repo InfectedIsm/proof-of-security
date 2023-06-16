@@ -4,6 +4,18 @@ Journal of my learning progress in blockchain programming and security. Don't fo
 Right now I'm working as a Test & Measurement Support Engineer, specialized in RF and high throughput gen/acquisition systems.
 My goal: become a blockchain security engineer.
 
+#### DAY 136 16-june-2023
+> 1h on Wenwin. I have finished the code. After reading the doc, I found out some things were understood wrongly. Still interesting to do this way though, because now when I read the doc, it's really easy for me to verify it in the code. I see the point of doing this, not sure if its the best method though, but it might depends on the codebase.
+
+#### DAY 135 15-june-2023
+> 3h on Wenwin, almost done.
+
+#### DAY 134 14-june-2023
+> 1h30 on Wenwin, trying to no overlook functions that I do not understand. Usually I would go quickly over files to get a grasp, but one of my weakness is the ability to fully understand complex functions. So I'll try to work on that.
+
+#### DAY 133 13-june-2023
+> Spent 1h on Wenwin. I decided to try another method to find the ones that best fits to me. This time I'm gonna start by reading the codebase, then after its done, read the doc.
+
 #### DAY 132 12-june-2023
 > Quick break to train again on auditing contests. This time with a friend, we will audit an already finished contest, and compare our results together, and with the actual report. The contest is [WenWin](https://code4rena.com/reports/2023-03-wenwin)
 
