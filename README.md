@@ -11,7 +11,7 @@ My goal: become a blockchain security engineer.
 > 3h on Wenwin, almost done.
 
 #### DAY 134 14-june-2023
-> 1h30 on Wenwin, trying to no overlook functions that I do not understand. Usually I would go quickly over files to get a grasp, but one of my weakness is the ability to fully understand complex functions. So I'll try to work on that.
+> 1h30 on Wenwin, trying to no overlook functions that I do not understand. Usually I would go quickly over files to get a grasp then go back if needed, but one of my weakness is the ability to fully understand complex functions. So I'll try to work on that.
 
 #### DAY 133 13-june-2023
 > Spent 1h on Wenwin. I decided to try another method to find the ones that best fits to me. This time I'm gonna start by reading the codebase, then after its done, read the doc.
