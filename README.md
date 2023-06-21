@@ -4,6 +4,9 @@ Journal of my learning progress in blockchain programming and security. Don't fo
 Right now I'm working as a Test & Measurement Support Engineer, specialized in RF and high throughput gen/acquisition systems.
 My goal: become a blockchain security engineer.
 
+#### DAY 137 to 147 - 17-june-2023 to 27-june-2023
+> AFK, big vacations. Still reading news coming when I have time ;)
+
 #### DAY 136 16-june-2023
 > 1h on Wenwin. I have finished the code. After reading the doc, I found out some things were understood wrongly. Still interesting to do this way though, because now when I read the doc, it's really easy for me to verify it in the code. I see the point of doing this, not sure if its the best method though, but it might depends on the codebase.
 
@@ -594,4 +597,4 @@ This is a great way to practice and learn when you don't have that much time on 
 >- Learned Truffle and Ganache, but didn't like it at all
 >- Learned Hardhat, was way better
 >- Wrote writeup to multiple quizzes (Rareskill, Secureum)
->- Read hundreds of articles/blogposts
+>- Read dozens of articles/blogposts
