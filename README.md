@@ -4,7 +4,10 @@ Journal of my learning progress in blockchain programming and security. Don't fo
 Right now I'm working as a Test & Measurement Support Engineer, specialized in RF and high throughput gen/acquisition systems.
 My goal: become a blockchain security engineer.
 
-#### DAY 137 to 147 - 17-june-2023 to 27-june-2023
+#### DAY 147 27-june-2023
+> Starting Sherlock Symmetrical Contest (I'll go back to wenwin later)
+
+#### DAY 137 to 146 - 17-june-2023 to 26-june-2023
 > AFK, big vacations. Still reading news coming when I have time ;)
 
 #### DAY 136 16-june-2023
