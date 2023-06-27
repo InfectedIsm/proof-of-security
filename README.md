@@ -6,6 +6,8 @@ My goal: become a blockchain security engineer.
 
 #### DAY 147 27-june-2023
 > Starting Sherlock Symmetrical Contest (I'll go back to wenwin later)
+> This project is based on EIP-2535 (Diamond Standard), which seems to be a pretty complicated architecture, but very useful.
+> I'll have to spend some time to understand it, but it's worth it.
 
 #### DAY 137 to 146 - 17-june-2023 to 26-june-2023
 > AFK, big vacations. Still reading news coming when I have time ;)
