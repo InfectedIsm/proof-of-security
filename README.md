@@ -5,6 +5,13 @@ Right now I'm working as a Test & Measurement Support Engineer, specialized in R
 My goal: become a blockchain security engineer.
 
 #### DAY 147 27-june-2023
+> Read some article on [Blockthreat intelligence week 24](https://newsletter.blockthreat.io/p/blockthreat-week-20-2023)
+> I decided to start a medium page where I will summarize every hack/vulnerability I read of. I should start to think about a template to follow while summaraizing.
+
+#### DAY 147 28-june-2023
+> Continued working on EIP-2535 and I think I understood it pretty well. It's really not that difficult in the end, and I was able to understand then the architecture of the project.
+
+#### DAY 147 27-june-2023
 > Starting Sherlock Symmetrical Contest (I'll go back to wenwin later)
 > This project is based on EIP-2535 (Diamond Standard), which seems to be a pretty complicated architecture, but very useful.
 > I'll have to spend some time to understand it, but it's worth it.
