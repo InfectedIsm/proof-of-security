@@ -3,8 +3,14 @@
 Journal of my learning progress in blockchain programming and security. Don't forget to check also my ["before day 1 section!"](#Before-DAY-1)
 Right now I'm working as a Test & Measurement Support Engineer, specialized in RF and high throughput gen/acquisition systems.
 My goal: become a blockchain security engineer.
+I try to spend 1h a day strict minimum working on this goal
 
-#### DAY 147 27-june-2023
+#### DAY 173 23-june-2023 
+> Hey ! Maybe I should update this sometimes :D
+> I stopped updating it because, well, the motor is running now and I keep working everyday on this.
+> Maybe I will now use this file to tell about my achievements
+
+#### DAY 147 27-june-2023 
 > Read some article on [Blockthreat intelligence week 24](https://newsletter.blockthreat.io/p/blockthreat-week-20-2023)
 > I decided to start a medium page where I will summarize every hack/vulnerability I read of. I should start to think about a template to follow while summaraizing.
 
